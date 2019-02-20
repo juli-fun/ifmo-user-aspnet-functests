@@ -1,0 +1,14 @@
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.deps.json
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.runtimeconfig.json
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.runtimeconfig.dev.json
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.dll
+/Users/juli-fun/ifmo-user-aspnet-functests/bin/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.pdb
+/Users/juli-fun/ifmo-user-aspnet-functests/obj/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.csprojAssemblyReference.cache
+/Users/juli-fun/ifmo-user-aspnet-functests/obj/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.csproj.CoreCompileInputs.cache
+/Users/juli-fun/ifmo-user-aspnet-functests/obj/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.AssemblyInfoInputs.cache
+/Users/juli-fun/ifmo-user-aspnet-functests/obj/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.AssemblyInfo.cs
+/Users/juli-fun/ifmo-user-aspnet-functests/obj/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.dll
+/Users/juli-fun/ifmo-user-aspnet-functests/obj/Debug/netcoreapp2.1/ifmo-user-aspnet-functests.pdb
